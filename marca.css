@@ -1,0 +1,29 @@
+
+.uno ul li{
+    text-decoration: none;
+    float: left;
+    list-style: none;
+    /*margin-left: 8%;
+    display: block;*/
+ }
+ .anuncio{
+     position: relative;
+     left: 20%;
+ }
+.new{
+    position: absolute;
+}
+ul li{
+    text-decoration: none;
+    list-style: none;
+}
+.parte{
+clear: both;
+margin-top:30%; 
+}
+.mess{
+    position:absolute;
+    
+}
+
+
